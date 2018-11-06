@@ -1,16 +1,29 @@
-html { 
+html {}
 
+body {
+    background-color: #e3e0cf
+    
 }
+.nav-item{
 
-.jumbotron {
-    height: 100px;
-    margin-top: auto;
-
+    text-align: end
 }
-main.container{
+.navbar-brand{
 
-    background-color: bisque;
+    margin-left: 110px
     
 }
 
-card.
+.navbar {
+    height: 100px
+    
+}
+
+a.nav-link {
+    font-size: 20px; 
+}
+
+
+
+.img-fluid {max-width: 82%; height: auto; align-content: center; margin-left: 123px; margin-top: 20px
+}
