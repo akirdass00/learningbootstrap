@@ -1,7 +1,11 @@
 html {}
 
 body {
+<<<<<<< HEAD
     background-color: #ffffff
+=======
+    background-color: #e3e0cf
+>>>>>>> 267cf814ae3d86b9ab9d410c96fdd90cd023062c
     
 }
 .nav-item{
@@ -10,11 +14,16 @@ body {
 }
 .navbar-brand{
 
+<<<<<<< HEAD
     margin-left: 390px
+=======
+    margin-left: 110px
+>>>>>>> 267cf814ae3d86b9ab9d410c96fdd90cd023062c
     
 }
 
 .navbar {
+<<<<<<< HEAD
        height: 100px
     
 }
@@ -26,11 +35,18 @@ body {
 
 
 
+=======
+    height: 100px
+    
+}
+
+>>>>>>> 267cf814ae3d86b9ab9d410c96fdd90cd023062c
 a.nav-link {
     font-size: 20px; 
 }
 
 
+<<<<<<< HEAD
 .rounded {width: 1100px; height: 350; 
 
 }
@@ -81,3 +97,8 @@ section .section-title {
     margin-bottom: 10px;
 }
 }
+=======
+
+.img-fluid {max-width: 82%; height: auto; align-content: center; margin-left: 123px; margin-top: 20px
+}
+>>>>>>> 267cf814ae3d86b9ab9d410c96fdd90cd023062c
