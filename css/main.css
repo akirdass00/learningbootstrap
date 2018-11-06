@@ -1,16 +1,83 @@
-html { 
+html {}
 
+body {
+    background-color: #ffffff
+    
 }
+.nav-item{
 
-.jumbotron {
-    height: 100px;
-    margin-top: auto;
-
+    text-align: end
 }
-main.container{
+.navbar-brand{
 
-    background-color: bisque;
+    margin-left: 390px
     
 }
 
-card.
+.navbar {
+       height: 100px
+    
+}
+
+.navbar-nav{
+     
+    margin-right: 380px
+}
+
+
+
+a.nav-link {
+    font-size: 20px; 
+}
+
+
+.rounded {width: 1100px; height: 350; 
+
+}
+
+
+/* Footer */
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+section {
+    padding: 60px;
+}
+
+.socialmedia {
+    
+    text-align: center;
+    
+}
+
+
+
+section .section-title {
+    text-align: center;
+    color: #007b5e;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+#footer {
+    background: #e62739 !important;
+}
+#footer h5{
+	padding-left: 10px;
+    border-left: 3px solid #eeeeee;
+    padding-bottom: 6px;
+    margin-bottom: 20px;
+    color:#ffffff;
+}
+#footer a {
+    color: #ffffff;
+    text-decoration: none !important;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+@media (max-width:767px){
+	#footer h5 {
+    padding-left: 0;
+    border-left: transparent;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+}
+}
